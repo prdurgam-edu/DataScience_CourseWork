@@ -1,1 +1,1 @@
-# MLAI_Classes
+# Short course for ML/AI Aspirants
