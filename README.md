@@ -1,1 +1,1 @@
-# Short course for ML/AI Aspirants
+Short course for ML/AI Aspirants
