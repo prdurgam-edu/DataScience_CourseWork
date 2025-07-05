@@ -1,1 +1,1 @@
-Short course for ML/AI Aspirants
+Course work of ML courses that I have taken
